@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alura Viagens</string>
+    <string name="action_bar_package_list_activity">Pacotes</string>
+    <string name="action_bar_package_resume">Resumo do Pacote</string>
+    <string name="day">Dia</string>
+    <string name="days">Dias</string>
+    <string name="specials">Especiais</string>
+    <string name="brazil">Brasil</string>
+    <string name="final_price">Preço Final:</string>
+    <string name="make_payment">Realizar Pagamento</string>
+    <string name="of_with_space">\u0020de\u0020</string>
+    <string name="date_format">dd/MM</string>
+    <string name="payment_information_credit_card_tip">Digite os dados do cartão de crédito que deseja utilizar para o pagamento</string>
+    <string name="purchase_amount">Valor da compra:</string>
+    <string name="card_number">Número no cartão</string>
+    <string name="card_month">MM</string>
+    <string name="card_year">AA</string>
+    <string name="card_cvc">CVC</string>
+    <string name="name_in_the_card">Nome no cartão</string>
+    <string name="payment">Pagamento</string>
+    <string name="action_bar_purchase_completed">Resumo da compra</string>
+    <string name="congratulations">Parabéns</string>
+    <string name="successful_purchase">Compra realizada com sucesso :)</string>
+    <string name="see_the_purchase_summary">Confira o resumo da compra:</string>
+    <string name="orange_background">fundo laranja</string>
+    <string name="image_of_the_city">imagem da cidade</string>
+</resources>

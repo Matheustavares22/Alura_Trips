@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Alura Trips</string>
+    <string name="day">Day</string>
+    <string name="days">Days</string>
+    <string name="action_bar_package_list_activity">Packages</string>
+    <string name="action_bar_package_resume">Package Resume</string>
+    <string name="action_bar_purchase_completed">Purchase completed</string>
+    <string name="drawable_resource" translatable="false">drawable</string>
+    <string name="language_pt" translatable="false">pt</string>
+    <string name="country_br" translatable="false">br</string>
+    <string name="specials">Specials</string>
+    <string name="brazil">Brazil</string>
+    <string name="initial_banner" translatable="false">Initial banner</string>
+    <string name="image_of_the_city">image of the city</string>
+    <string name="final_price">Final Price:</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="of_with_space">\u0020of\u0020</string>
+    <string name="date_format">MM/dd</string>
+    <string name="payment_information_credit_card_tip">Type the information of the credit card that you want to use for the payment</string>
+    <string name="purchase_amount">Purchase amount:</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_month">MM</string>
+    <string name="card_year">YY</string>
+    <string name="card_cvc">CVC</string>
+    <string name="name_in_the_card">Name in the card</string>
+    <string name="payment">Payment</string>
+    <string name="alphabet_mask" translatable="false">abcdefghijklmnopqrstuvwxyzçABCDEFGHIJKLMNOPQRSTUVWXYZÇ\u0020</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="successful_purchase">Successful Purchase :)</string>
+    <string name="see_the_purchase_summary">See the purchase summary:</string>
+    <string name="orange_background">orange background</string>
+    <string name="package_key" translatable="false">package</string>
+</resources>

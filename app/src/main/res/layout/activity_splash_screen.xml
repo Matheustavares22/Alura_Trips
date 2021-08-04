@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="550dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:contentDescription="splash art"
+        android:src="@drawable/megu" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Megumin Splash screen"
+        android:textColor="#fff"
+        android:textSize="30sp" />
+
+</LinearLayout>
